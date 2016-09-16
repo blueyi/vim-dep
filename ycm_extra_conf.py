@@ -74,7 +74,7 @@ flags = [
 '-I',
 './ClangCompleter',
 '-isystem',
-'./tests/gmock/gtest',
+'C:\\TDM-GCC-64\\include'
 '-isystem',
 './tests/gmock/gtest/include',
 '-isystem',
